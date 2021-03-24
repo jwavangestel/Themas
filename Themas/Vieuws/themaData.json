@@ -1,0 +1,198 @@
+[
+   {
+    "id": 1,
+    "name": "Kunst in de openbare ruimte",
+    "subthemas"      :
+       {
+        "count" : 2,
+        "subthema" :
+            [
+                {
+                    "name" : "Thema Kunst in Veldhoven",
+                    "email": "haneex@gmail.com",
+                    "items" :
+                      [
+                          {
+                              "name" : "De ontmoeting",
+                              "item": 
+                                [
+                                  {
+                                    "desc" : "Text van de ontmoeting"
+                                  }
+                                 ]
+                          },
+                          {
+                              "name" : "Appel",
+                              "item": 
+                                [
+                                  {
+                                    "desc" : "Text van de appel"
+                                  }
+                                 ]
+                          }
+                      ]
+                },
+                {
+                    "name" : "Thema Kunst rond het centrum",
+                    "email": "haneex@gmail.com",
+                    "items" :
+                      [
+                          {
+                              "name" : "De ontmoeting",
+                              "item":
+                                [
+                                  {
+                                    "desc" : "Text van de ontmoeting"
+                                  }
+                                 ]
+                          },
+                          {
+                              "name" : "Appel",
+                              "item":
+                                [
+                                  {
+                                    "desc" : "Text van de appel"
+                                  }
+                                 ]
+                          }
+                      ]
+                }
+                
+            ]
+        }
+  },
+  {
+    "id": 2,
+    "name": "Historische thema's",
+    "subthemas"      :
+       {
+        "count" : 1,
+        "subthema" :
+            [
+                {
+                    "name" : "Historisch Meerveldhoven",
+                    "email": "Protestantse kerk uit 1960",
+                    "items" :
+                      [
+                          {
+                              "name" : "Immanuelkerk",
+                              "item": 
+                                [
+                                  {
+                                    "desc" : "Protestantse kerk uit 1960"
+                                  }
+                                 ] 
+                          },
+                          {
+                              "name" : "Molen De Adriaan",
+                              "item": 
+                                [
+                                  {
+                                    "desc" : "Korenmolen"
+                                  }
+                                 ]
+                          }
+                      ]
+                },
+                {
+                    "name" : "Historisch Oerle",
+                    "email": "Protestantse kerk uit 1960",
+                    "items" :
+                      [
+                          {
+                              "name" : "De Leeuwenhoff",
+                              "item":
+                                [
+                                  {
+                                    "desc" : "Protestantse kerk uit 1960"
+                                  }
+                                 ]
+                          },
+                          {
+                              "name" : "De Berkte Hoeve",
+                              "item":
+                                [
+                                  {
+                                    "desc" : "Korenmolen"
+                                  }
+                                 ]
+                          }
+                      ]
+                }
+            ]
+        }
+  },
+  {
+    "id": 3,
+    "name": "Speciale thema's",
+    "subthemas"      :
+       {
+        "count" : 1,
+        "subthema" :
+            [
+                {
+                    "name" : "Thema Religieuxe zaken",
+                    "email": "Protestantse kerk uit 1960",
+                    "items" :
+                      [
+                          {
+                              "name" : "Sint Jan de Doperkerk",
+                              "item": 
+                                [
+                                  {
+                                    "desc" : "Op de plaats waar nu de kerk staaat"
+                                  }
+                                 ] 
+                          },
+                          {
+                              "name" : "Het Pensionaat - Onze Lieve Vrouwe van Lourdes",
+                              "item": 
+                                [
+                                  {
+                                    "desc" : "Rechts van de basisschool in Oerle"
+                                  }
+                                 ]
+                          }
+                      ]
+                }
+            ]
+        }
+  },
+  {
+    "id": 4,
+    "name": "Wandelen in het buitengebied",
+    "subthemas"      :
+       {
+        "count" : 1,
+        "subthema" :
+            [
+                {
+                    "name" : "Route Half Mijl",
+                    "email": "Protestantse kerk uit 1960",
+                    "items" :
+                      [
+                          {
+                              "name" : "Grafheuvels",
+                              "item": 
+                                [
+                                  {
+                                    "desc" : "Grafheuvels (tumuli) zijn kunstmatig opgewordpen heuveltjes"
+                                  }
+                                 ] 
+                          },
+                          {
+                              "name" : "Bruggenrijt",
+                              "item": 
+                                [
+                                  {
+                                    "desc" : "De gevraagde informatie staat op een webpagina "
+                                  }
+                                 ]
+                          }
+                      ]
+                }
+            ]
+        }
+  }
+ 
+]
